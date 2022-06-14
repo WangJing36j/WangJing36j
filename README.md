@@ -1,4 +1,4 @@
-- 👋 Hi, I’m wang jing , a chinese girl.
+- 👋 Hi, I’m wang jing , a Chinese girl.
 - 👀 I’m interested in C#.
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on C# learning.
